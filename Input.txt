@@ -1,0 +1,49 @@
+Sample input 1*
+N = 4 
+Stocks_and_values = [ [1, 2], [4, 3], [5, 6], [6, 7] ].
+Amount = 12	
+
+Sample input 2*
+N = 4 
+Stocks_and_values = [ [3, 2], [4, 3], [5, 3], [6, 7] ].
+Amount = 10	
+
+Sample input 3*
+N = 4 
+Stocks_and_values = [ [1, 2], [4, 3], [5, 3], [6, 7] ].
+Amount = 15
+
+Sample input 4*
+N = 1
+Stocks_and_values = [ [6, 7] ].
+Amount = 10
+
+Sample input 5*
+N = 6 
+Stocks_and_values = [ [1, 1], [3, 2], [4, 3], [5, 3], [6, 7], [9, 8] ].
+Amount = 13
+
+Sample input 6*
+N = 4 
+Stocks_and_values = [ [7, 15], [10, 20], [12, 35], [35, 70] ].
+Amount = 100
+
+Sample input 7*
+N = 4 
+Stocks_and_values = [ [20, 2], [20, 3], [20, 4], [99, 15] ].
+Amount = 15
+
+Sample input 8*
+N = 5 
+Stocks_and_values = [ [2, 1], [4, 3], [5, 4], [7, 5], [99, 11] ].
+Amount = 10
+
+Sample input 9*
+N = 4 
+Stocks_and_values = [ [3, 2], [4, 3], [5, 3], [6, 7] ].
+Amount = 1
+
+Sample input 10*
+N = 0 
+Stocks_and_values = [  ].
+Amount = 10

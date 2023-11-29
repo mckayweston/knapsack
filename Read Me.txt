@@ -1,0 +1,4 @@
+Weston McKay
+mckayweston@csu.fullerton.edu
+
+When adding new samples to the input sheet be sure all entries for Stocks_and_values maintain the formatting of "[ [x, y], ... [x, y] ]." and all amounts maintain the formatting of "Amount = n" as incorrect formatting can cause the program to fail. x and y must be whole numbers from 0 to 99.
